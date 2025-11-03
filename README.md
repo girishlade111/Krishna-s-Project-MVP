@@ -11,7 +11,8 @@ A pixel-perfect, static clone of the Technical University of Munich (TUM) homepa
 
 Here is a preview of the final replicated website. The goal was to match the provided image as closely as possible.
 
-![TUM Homepage Clone Screenshot]([link-to-your-screenshot.png]) 
+![TUM Homepage Clone Screenshot](<img width="1920" height="7926" alt="screencapture-tum-de-en-2025-11-03-16_34_23" src="https://github.com/user-attachments/assets/e1194d61-fe10-4aae-bccd-db3d11481198" />
+) 
 *(**Note:** Replace this with a real screenshot of your project)*
 
 ---
